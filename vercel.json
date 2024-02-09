@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    {
+      "source": "/blog",
+      "destination": "https://www.google.com"
+    }
+  ]
+}
