@@ -20,7 +20,7 @@ const QuestionSix = () => {
         <li><Link className="text-blue-500" href="https://vercel.com/guides/are-vercel-preview-deployment-indexed-by-search-engines">Preview deployment</Link></li>
       </ul>
       <br/>
-      <p>Thought process: My thought process for this was to be a bit more straight forward and start google searching right away as time was beginning to be a factor. I also felt providing the documenation to the customer in this case helped save time instead of writing out the snippets. I found a few Github issues that were semi relevant which then lead me to the nextjs documenation that I was able to search and find most of the helpful information I linked above.</p>
+      <p>Thought process: My thought process for this was to be a bit more straight forward by google searching right away as time was beginning to be a factor at this point. I also felt providing the documenation to the customer in this case helped save time instead of writing out the snippets. I found a few Github issues that were semi relevant which then lead me to the nextjs documenation that I was able to search and find most of the helpful information I linked above.</p>
     </>
   )
 }

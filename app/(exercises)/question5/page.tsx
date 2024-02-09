@@ -36,7 +36,7 @@ const QuestionFive = () => {
         <li><Link className="text-blue-500" href="https://vercel.com/docs/projects/project-configuration#redirects">Redirects</Link></li>
       </ul>
       <br/>
-      <p>Thought process: My thought process for this response was to show more empathy as the customer is running into an issue with the previous response. Being able to see their code/config would bne helpful. I also found there is another method to achieve the same thing so felt it was approiate to reccomend a different approach to see if that helps as well.</p>
+      <p>Thought process: My thought process for this response was to show more empathy as the customer is running into an issue with the previous response. Being able to see their code/config would be helpful. I also found there is another method to achieve the same thing so felt it was approiate to reccomend a different approach to see if that helps as well.</p>
     </div>
   );
 }
