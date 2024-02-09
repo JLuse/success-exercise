@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/blog",
-      "destination": "https://www.google.com"
+      "destination": "https://jluse.github.io/"
     }
   ]
 }
