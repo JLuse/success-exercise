@@ -13,6 +13,14 @@ const nextConfig = {
       }
     ]
   },
+  async rewrites() {
+    return [
+      {
+        source: '/blog',
+        destination: 'https://www.google.com/',
+      },
+    ]
+  },
   async redirects() {
     return [
       {
@@ -21,7 +29,7 @@ const nextConfig = {
         permanent: true,
       },
     ]
-  },
+  }
 };
 
 export default nextConfig;
