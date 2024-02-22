@@ -1,10 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/blog",
-      "destination": "https://jluse.github.io/"
-    }
-  ],
   "headers": [
     {
       "source": "/(.*)",
